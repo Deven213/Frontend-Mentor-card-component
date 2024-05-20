@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Frontend-Mentor-card-component/static/css/main.5faa8ac1.css",
+    "main.js": "/Frontend-Mentor-card-component/static/js/main.20e51deb.js",
+    "static/js/453.2c89c1e2.chunk.js": "/Frontend-Mentor-card-component/static/js/453.2c89c1e2.chunk.js",
+    "index.html": "/Frontend-Mentor-card-component/index.html",
+    "main.5faa8ac1.css.map": "/Frontend-Mentor-card-component/static/css/main.5faa8ac1.css.map",
+    "main.20e51deb.js.map": "/Frontend-Mentor-card-component/static/js/main.20e51deb.js.map",
+    "453.2c89c1e2.chunk.js.map": "/Frontend-Mentor-card-component/static/js/453.2c89c1e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5faa8ac1.css",
+    "static/js/main.20e51deb.js"
+  ]
+}
